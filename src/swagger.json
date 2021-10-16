@@ -134,7 +134,7 @@
       }
     },
     "users/:user_id/admin":  {
-      "get": {
+      "patch": {
         "tags": [
           "User"
         ],
